@@ -1,0 +1,40 @@
+_repo: A-Critical-Exposition-of-the-Popular-Jih-d-Allowed-in-The-Koran---1885_20927
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cherágh Ali
+    aliases:
+    - Ali, Cheragh
+    - Ali, Moulavi Gerágh
+    - Ali, Cherágh
+    birthdate: 1844
+    deathdate: 1895
+    gutenberg_agent_id: '9611'
+    url: http://www.gutenberg.org/2009/agents/9611
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islam -- Apologetic works'
+- !lcsh 'War -- Religious aspects -- Islam'
+- !lcc 'BP'
+- !lcsh 'Jihad'
+- !lcsh 'Islam -- Relations'
+title: 'A Critical Exposition of the Popular ''Jihád''
+
+  Showing that all the Wars of Mohammad Were Defensive; and
+
+  that Aggressive War, or Compulsory Conversion, is not
+
+  Allowed in The Koran - 1885'
+url: http://www.gutenberg.org/ebooks/20927
